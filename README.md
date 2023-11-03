@@ -25,7 +25,7 @@ To run this application locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/vaibhavchvn86/reactCount.git)
    cd react-counter-app
 
    npm install
@@ -48,5 +48,5 @@ Feel free to explore, modify, and enhance the application based on your requirem
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Ensure you replace `<repository-url>` with the actual URL of your Git repository if you have one. Also, include a screenshot of your application to provide users with a visual preview in the README.
+Ensure you replace `(https://github.com/vaibhavchvn86/reactCount.git)` with the actual URL of your Git repository if you have one. Also, include a screenshot of your application to provide users with a visual preview in the README.
 
