@@ -1,0 +1,59 @@
+.flex {
+  display: flexbox;
+  text-align: center;
+  align-items: center;
+  /* border: 2px solid green; */
+  /* height: 800px; */
+  margin-top: 10%;
+}
+
+.flex > .container-flex {
+  color: white;
+  /* border: 2px solid red; */
+  /* margin-top:10%; */
+}
+
+.container-main {
+  /* border: 2px solid red; */
+  margin-top: 30px;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.display-container {
+  /* border: 1px solid green; */
+  margin-top: 20px;
+}
+
+.display-container > p {
+  font-size: 27px;
+  margin-top: 10px;
+  border-bottom: 2px solid lightseagreen;
+  display: inline-block;
+}
+
+.error-container {
+  /* border: 2px solid orange; */
+  margin-top: 10px;
+}
+
+.error-container > p {
+  font-size: 22px;
+  margin-top: 10px;
+  color: red;
+}
+
+.btn-container {
+  /* border: 2px solid blue; */
+  margin-top: 40px;
+}
+
+.btn-container > button {
+  height: 40px;
+  width: 120px;
+  margin-left: 10px;
+  outline: 2px solid white;
+}

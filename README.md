@@ -1,6 +1,5 @@
 # reactCount
 
-
 ## Overview
 
 Welcome to the React Counter App! This is a simple yet functional React application that serves as a basic example of state management within a React component. The app allows users to interact with a counter, offering features like incrementing, decrementing (with a restriction to prevent going below 0), and resetting to 0.
@@ -31,8 +30,9 @@ To run this application locally, follow these steps:
    npm install
 
    npm start
-Components
-The main component driving the functionality of the app is CounterND.js, located in the src directory. It encapsulates the following key features:
+   Components
+   The main component driving the functionality of the app is CounterND.js, located in the src directory. It encapsulates the following key features:
+   ```
 
 increment: Increases the counter value by 1.
 decrement: Decreases the counter value by 1 (with a restriction to prevent going below 0).
@@ -49,4 +49,3 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Ensure you replace `(https://github.com/vaibhavchvn86/reactCount.git)` with the actual URL of your Git repository if you have one. Also, include a screenshot of your application to provide users with a visual preview in the README.
-
